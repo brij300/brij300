@@ -2,7 +2,7 @@
 
 **Principal Engineer · Solution Architect · IoT & Cloud Systems**
 
-I design and build production-grade distributed systems — from IoT edge devices to cloud-native backends — with a focus on security, observability, and reliability. Currently at **Bosch Home Comfort**, where I architect cloud platforms, lead open source compliance, and represent engineering in legal and policy reviews.
+I design and build production-grade distributed systems — from IoT edge devices to cloud-native backends — with a focus on security, observability, and reliability. Currently at **Bosch Home Comfort**, where I architect cloud platforms, lead open source compliance, and serve as technical liaison between engineering, legal, and policy teams.
 
 ---
 
